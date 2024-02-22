@@ -1,9 +1,14 @@
 ### Hi there 👋
-🔭 I’m currently working full time for an E-commerce website.  
-🌱 I’m currently learning Full Stack Development.  
-👯 I’m looking to collaborate on Java, JavaScript, React.js and I know some SQL as well.  
-📫 How to reach me: Linkedin : (https://www.linkedin.com/in/raviranjn/)  
-⚡ Fun fact: I sing sometimes and go to gym.  
+- 🔭 I’m currently working on **a E-commerce website**
+
+- 🌱 I’m currently learning **Full Stack Development.**
+
+- 👯 I’m looking to collaborate on **Java, JavaScript, React.js and I know some SQL as well.**
+
+- 🤝 I’m looking for help with **Backend development.**
+
+- ⚡ Fun fact **I like to design, watch Japanese cartoons,sing and go to gym.**
+
 <div class="profile-section" style="background-color: #333; color: #fff; padding: 5rem; border-radius: 0.8rem; margin-top: 3rem; font-family: sans-serif;">
   <h3 align="left">Connect with me:</h3>
   <ul class="social-links" style="display: flex; justify-content: space-between; list-style: none; margin: 3rem 0;">
