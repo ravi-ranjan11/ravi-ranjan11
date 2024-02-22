@@ -9,7 +9,8 @@
 - 🤝 I’m looking for help with **Backend development.**
 
 - ⚡ Fun fact **I like to design, watch Japanese cartoons, sing and go to gym.**
-- 
+
+
 
 <div class="profile-section" style="background-color: #333; color: #fff; padding: 5rem; border-radius: 0.8rem; margin-top: 3rem; font-family: sans-serif;">
 
