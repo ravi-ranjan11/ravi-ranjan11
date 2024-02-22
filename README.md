@@ -4,10 +4,9 @@
 👯 I’m looking to collaborate on Java, JavaScript, React.js and I know some SQL as well.  
 📫 How to reach me: Linkedin : (https://www.linkedin.com/in/raviranjn/)  
 ⚡ Fun fact: I sing sometimes and go to gym.  
-<div class="profile-section" style="background-color: #333; color: #fff; padding: 2rem; border-radius: 0.5rem; margin-top: 2rem; font-family: sans-serif;">
+<div class="profile-section" style="background-color: #333; color: #fff; padding: 5rem; border-radius: 0.8rem; margin-top: 3rem; font-family: sans-serif;">
   <h3 align="left">Connect with me:</h3>
-  <ul class="social-links" style="display: flex; justify-content: space-between; list-style: none; margin: 1rem 0;">
-    <li>
+  <ul class="social-links" style="display: flex; justify-content: space-between; list-style: none; margin: 3rem 0;">
       <a href="https://codepen.io/ravi_" target="_blank" rel="nofollow noopener noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ravi_" height="30" width="40" style="opacity: 0.8; transition: opacity 0.2s ease-in-out;" />
       </a>
@@ -20,7 +19,6 @@
       <a href="https://medium.com/@sujeetadarsh" target="_blank" rel="nofollow noopener noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sujeetadarsh" height="30" width="40" style="opacity: 0.8; transition: opacity 0.2s ease-in-out;" />
       </a>
-    </li>
     
   </ul>
 
